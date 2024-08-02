@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: darkslategray;
+}
+
+.cell {
+    height: 100px;
+    width: 100px;
+    border: 0.5px solid grey;
+    border-style: inset;
+}
+
+.blackcell {
+    background-color: black;
+}
+
+.whitecell {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+}
+
+.clear-board {
+    margin-top: 15px;
+}
+
+.display-div {
+    height: 200px;
+    width: 300px;
+    background-color: rgb(137, 141, 141);
+    text-align: center;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.507);
+}
